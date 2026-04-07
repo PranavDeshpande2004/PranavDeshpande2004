@@ -1,18 +1,22 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pranav%20Deshpande&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=60&descSize=18&animation=fadeIn"/>
+<!-- Pixel art banner image -->
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="600" alt="Late night coding pixel art"/>
 
-<!-- Typing Animation -->
+<br/>
+
+# Hi, I'm Pranav Deshpande 👋
+
+### Final Year Undergrad @ PICT, Pune &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Backend Enthusiast &nbsp;|&nbsp; AI Explorer
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final+Year+Undergrad+%40+PICT%2C+Pune;Java+%7C+Spring+Boot+%7C+Next.js+%7C+Spring+AI;Building+Scalable+%26+Intelligent+Systems;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Next.js+%7C+Spring+AI;Building+Scalable+%26+Intelligent+Systems;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=PranavDeshpande2004&color=58A6FF&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/PranavDeshpande2004?label=Followers&style=flat-square&color=58A6FF)](https://github.com/PranavDeshpande2004)
+![Profile Views](https://komarev.com/ghpvc/?username=PranavDeshpande2004&color=64FFDA&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/PranavDeshpande2004?label=Followers&style=flat-square&color=64FFDA)](https://github.com/PranavDeshpande2004)
 
 </div>
 
@@ -47,128 +51,55 @@ public class PranavDeshpande {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%">
+- **[AI-Powered CIBIL Score Generator](https://github.com/PranavDeshpande2004/AI-Powered-CIBIL-Score-Generator):** ML-based credit risk predictor for MSMEs, startups & high-risk enterprises using React.js, Machine Learning & Tableau.
 
-### 🤖 AI-Powered CIBIL Score Generator
-> ML-based credit risk predictor for MSMEs, startups & high-risk enterprises
+- **[DOCIQ-RAG](https://github.com/PranavDeshpande2004/DOCIQ-RAG):** Complete RAG system built with Spring Boot + Spring AI to turn unstructured PDFs into intelligent, searchable knowledge.
 
-- Analyzes **banking, GST & e-commerce data**
-- Built with **React.js, Machine Learning & Tableau**
-- Predicts credit risk with intelligent scoring
+- **[Finance Data Processing & Access Control Backend](https://github.com/PranavDeshpande2004/Finance-Data-Processing-and-Access-Control-Backend):** Finance backend API with JWT authentication, role-based access control, and transaction management built using Spring Boot.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PranavDeshpande2004/AI-Powered-CIBIL-Score-Generator)
-![Stars](https://img.shields.io/github/stars/PranavDeshpande2004/AI-Powered-CIBIL-Score-Generator?style=social)
+- **[Inventory Forecasting System](https://github.com/PranavDeshpande2004/Inventory-Forecasting-System):** Full-stack web app with ML-powered sales & inventory prediction, secure auth, and product CRUD using Java + Spring Boot.
 
-</td>
-<td width="50%">
+- **[Smart Task Planner](https://github.com/PranavDeshpande2004/Smart-Task-Planner):** AI-powered planner built with FastAPI + LangChain that turns any goal into structured tasks, dependencies & timelines via LLM.
 
-### 📄 DOCIQ-RAG
-> Complete RAG system — turn PDFs into intelligent, searchable knowledge
+- **[Training & Placement Website for PICT](https://github.com/PranavDeshpande2004):** Platform allowing companies to register, post job listings, students to apply easily, and the college to manage all placement activities.
 
-- Built using **Spring Boot + Spring AI**
-- Extracts & indexes text from unstructured PDFs
-- Semantic search powered by vector embeddings
+- **[Predicting & Forecasting of Cyberattacks](https://github.com/PranavDeshpande2004):** Tableau dashboard that accurately forecasts historical cyberattacks and predicts future ones using machine learning.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PranavDeshpande2004/DOCIQ-RAG)
+- **[Prasad's Blog](https://github.com/PranavDeshpande2004):** Built a website using React.js for hosting personal blogs.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+- **[Legal Chatbot](https://github.com/PranavDeshpande2004):** Created a chatbot designed to provide answers related to Indian laws, assisting individuals in legal matters.
 
-### 🏦 Finance Data Processing & Access Control Backend
-> Secure finance API with JWT auth and role-based access control
-
-- **JWT Authentication** + Role-Based Authorization
-- Built with **Spring Boot**
-- Transaction management & financial data APIs
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PranavDeshpande2004/Finance-Data-Processing-and-Access-Control-Backend)
-
-</td>
-<td width="50%">
-
-### 📦 Inventory Forecasting System
-> Full-stack app with ML-powered sales & inventory prediction
-
-- **Secure auth** + product CRUD operations
-- **Machine Learning** forecasting engine
-- Built with **Java + Spring Boot**
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PranavDeshpande2004/Inventory-Forecasting-System)
-![Stars](https://img.shields.io/github/stars/PranavDeshpande2004/Inventory-Forecasting-System?style=social)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 Smart Task Planner
-> AI-powered planner that turns any goal into a structured action plan
-
-- Built with **FastAPI + LangChain**
-- Generates tasks, dependencies & timelines via LLM
-- Smart agent-based workflow orchestration
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/PranavDeshpande2004/Smart-Task-Planner)
-
-</td>
-<td width="50%">
-
-### ⚙️ Workflow to JSON
-> Converts workflow definitions into structured JSON format
-
-- Built with **TypeScript**
-- Clean, structured output for automation pipelines
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Prasad2604/workflow-to-json)
-
-</td>
-</tr>
-</table>
+- **[Workflow to JSON](https://github.com/Prasad2604/workflow-to-json):** Converts workflow definitions into clean structured JSON format. Built with TypeScript.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div align="center">
 
-### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Languages**
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&theme=dark" />
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Backend & Frameworks**
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,idea&theme=dark" />
+
+</div>
 
 ---
 
@@ -176,15 +107,12 @@ public class PranavDeshpande {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PranavDeshpande2004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PranavDeshpande2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavDeshpande2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavDeshpande2004&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
+<br/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PranavDeshpande2004&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PranavDeshpande2004&theme=tokyonight&hide_border=true&background=0d1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA)](https://git.io/streak-stats)
 
 </div>
 
@@ -194,11 +122,9 @@ public class PranavDeshpande {
 
 <div align="center">
 
-| Platform | Profile |
-|----------|---------|
-| 💻 **Codeforces** | [![Codeforces](https://img.shields.io/badge/pranav1910-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pranav1910) |
-| 🟨 **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/exJg18SAZj/) |
-| 🍴 **CodeChef** | [![CodeChef](https://img.shields.io/badge/ps1910-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ps1910) |
+[![Codeforces](https://img.shields.io/badge/Codeforces-pranav1910-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pranav1910)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/exJg18SAZj/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-ps1910-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ps1910)
 
 </div>
 
@@ -208,10 +134,8 @@ public class PranavDeshpande {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-deshpande-35b485259/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavDeshpande2004)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pranav1910)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/exJg18SAZj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Deshpande-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-deshpande-35b485259/)
+[![GitHub](https://img.shields.io/badge/GitHub-PranavDeshpande2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavDeshpande2004)
 
 </div>
 
@@ -219,8 +143,8 @@ public class PranavDeshpande {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+*"First, solve the problem. Then, write the code." — John Johnson*
 
-*“Programs must be written for people to read, and only incidentally for machines to execute.”— Harold Abelson*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=100&section=footer"/>
 
 </div>
