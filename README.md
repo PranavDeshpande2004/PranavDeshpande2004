@@ -62,22 +62,14 @@ public class PranavDeshpande {
 - **[Inventory Forecasting System](https://github.com/PranavDeshpande2004/Inventory-Forecasting-System):** Full-stack web app with ML-powered sales & inventory prediction, secure auth, and product CRUD using Java + Spring Boot.
 
 - **[Smart Task Planner](https://github.com/PranavDeshpande2004/Smart-Task-Planner):** AI-powered planner built with FastAPI + LangChain that turns any goal into structured tasks, dependencies & timelines via LLM.
-
-- **[Training & Placement Website for PICT](https://github.com/PranavDeshpande2004):** Platform allowing companies to register, post job listings, students to apply easily, and the college to manage all placement activities.
-
-- **[Predicting & Forecasting of Cyberattacks](https://github.com/PranavDeshpande2004):** Tableau dashboard that accurately forecasts historical cyberattacks and predicts future ones using machine learning.
-
-- **[Prasad's Blog](https://github.com/PranavDeshpande2004):** Built a website using React.js for hosting personal blogs.
-
-- **[Legal Chatbot](https://github.com/PranavDeshpande2004):** Created a chatbot designed to provide answers related to Indian laws, assisting individuals in legal matters.
-
+  
 - **[Workflow to JSON](https://github.com/Prasad2604/workflow-to-json):** Converts workflow definitions into clean structured JSON format. Built with TypeScript.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Languages**
 
@@ -120,7 +112,7 @@ public class PranavDeshpande {
 
 ## 🏆 Competitive Programming
 
-<div align="center">
+<div align="left">
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-pranav1910-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pranav1910)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/exJg18SAZj/)
@@ -132,7 +124,7 @@ public class PranavDeshpande {
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Deshpande-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-deshpande-35b485259/)
 [![GitHub](https://img.shields.io/badge/GitHub-PranavDeshpande2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavDeshpande2004)
@@ -143,7 +135,7 @@ public class PranavDeshpande {
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*“Programs must be written for people to read, and only incidentally for machines to execute.”— Harold Abelson*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=100&section=footer"/>
 
