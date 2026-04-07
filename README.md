@@ -78,6 +78,8 @@ public class PranavDeshpande {
 **Backend & Frameworks**
 
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs&theme=dark" />
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48"/>
+<img src="https://avatars.githubusercontent.com/u/167398815?s=200&v=4" width="48" height="48"/>
 
 **Frontend**
 
