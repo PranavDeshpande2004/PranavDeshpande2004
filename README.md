@@ -221,6 +221,6 @@ public class PranavDeshpande {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+*“Programs must be written for people to read, and only incidentally for machines to execute.”— Harold Abelson*
 
 </div>
