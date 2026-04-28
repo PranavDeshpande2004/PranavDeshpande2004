@@ -39,7 +39,7 @@ public class PranavDeshpande {
     };
 
     String   location  = "Pune, India 🇮🇳";
-    String   email     = "Available on LinkedIn";
+    String   email     = "pranavdeshpande1910@gmail.com";
 }
 ```
 
